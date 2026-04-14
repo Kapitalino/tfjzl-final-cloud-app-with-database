@@ -1,0 +1,12 @@
+
+
+models.py:
+https://github.com/Kapitalino/tfjzl-final-cloud-app-with-database/blob/main/onlinecourse/models.py
+
+
+admin.py:
+https://github.com/Kapitalino/tfjzl-final-cloud-app-with-database/blob/main/onlinecourse/admin.py
+
+
+course_detail_bootstrap.html:
+https://github.com/Kapitalino/tfjzl-final-cloud-app-with-database/blob/main/onlinecourse/templates/onlinecourse/course_detail_bootstrap.html
